@@ -17,3 +17,4 @@ How to run:
 - To see the game, simply press on the Project.gba file (GBA - Gameboy Advance)
 - To run the code, you must have GBA Downloaded and a text editor (I use Sublime)
 - The Makefile is where the c files are called
+- The files with relevant code are main.c and myLib.c
