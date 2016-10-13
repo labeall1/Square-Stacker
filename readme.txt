@@ -14,7 +14,8 @@ About the Game/How to play:
 - Restart means set your score back to zero and play again
 
 How to run:
+- This game is coded in C using Gameboy Advance (GBA)
 - To see the game, simply press on the Project.gba file (GBA - Gameboy Advance)
 - To run the code, you must have GBA Downloaded and a text editor (I use Sublime)
 - The Makefile is where the c files are called
-- The files with relevant code are main.c and myLib.c
+- The files with relevant code are main.c, myLib.c, and text.c
